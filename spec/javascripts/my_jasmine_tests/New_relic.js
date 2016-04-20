@@ -1,0 +1,3 @@
+function alive(){
+    return true;
+}

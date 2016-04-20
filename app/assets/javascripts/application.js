@@ -14,3 +14,5 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+ <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD9-iAUQmew5jHtjudMwByP1AQOIP_VsD4
+&callback=initMap" type="text/javascript"></script>
